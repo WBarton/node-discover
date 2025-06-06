@@ -1,12 +1,12 @@
 {
   "name": "node-discover",
-  "description": "Automatically discover your nodejs instances with built-in support for automatic single master and capability advertising.",
-  "version": "1.2.0",
-  "author": "Dan VerWeire",
-  "homepage": "http://github.com/wankdanker/node-discover",
+  "description": "Fork of wankdanker/node-discover that fixes encryption/decryption for later version of Node. Automatically discover your nodejs instances with built-in support for automatic single master and capability advertising.",
+  "version": "1.3.0",
+  "author": "WBarton",
+  "homepage": "http://github.com/WBarton/node-discover",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wankdanker/node-discover.git"
+    "url": "git://github.com/WBarton/node-discover.git"
   },
   "main": "index.js",
   "devDependencies": {
@@ -22,7 +22,7 @@
     "uuid": "^8.3.1"
   },
   "bugs": {
-    "url": "https://github.com/wankdanker/node-discover/issues"
+    "url": "https://github.com/WBarton/node-discover/issues"
   },
   "directories": {
     "example": "examples",
