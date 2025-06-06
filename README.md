@@ -1,7 +1,5 @@
 node-discover
 =============
-[![npm version](https://badge.fury.io/js/node-discover.svg)](https://www.npmjs.com/package/node-discover)
-
 Automatic and decentralized discovery and monitoring of nodejs instances with 
 built in support for a variable number of master processes, service advertising
 and channel messaging.
@@ -29,7 +27,7 @@ Example
 =======
 
 Be sure to look in the examples folder, especially at the [distributed event
-emitter](https://github.com/wankdanker/node-discover/blob/master/examples/deventemitter.js)
+emitter](https://github.com/WBarton/node-discover/blob/master/examples/deventemitter.js)
 
 
 ```js
@@ -89,13 +87,13 @@ Installing
 ### npm
 
 ```shell
-npm install node-discover
+npm install WBarton/node-discover
 ```
 
 ### git
 
 ```shell
-git clone git://github.com/wankdanker/node-discover.git
+git clone git://github.com/WBarton/node-discover.git
 ```
 
 API
