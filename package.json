@@ -1,7 +1,7 @@
 {
   "name": "node-discover",
   "description": "Fork of wankdanker/node-discover that fixes encryption/decryption for later version of Node. Automatically discover your nodejs instances with built-in support for automatic single master and capability advertising.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author": "WBarton",
   "homepage": "http://github.com/WBarton/node-discover",
   "repository": {
