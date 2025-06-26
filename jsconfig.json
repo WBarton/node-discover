@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "target": "es2020",
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["es2015", "dom", "dom.iterable"],
+    "checkJs": true,
+    "allowJs": true,
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*"]
+    }
+  },
+  "include": ["**/*.js"],
+  "exclude": [
+    "node_modules"
+  ]
+}
